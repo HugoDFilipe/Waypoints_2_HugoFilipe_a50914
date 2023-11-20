@@ -18,7 +18,7 @@ public class WPManager : MonoBehaviour
 
     public GameObject[] waypoints;
     public Link[] links;
-    public Graph graph = new Graph();
+    public Graphs graph = new Graphs();
 
 
     // Start is called before the first frame update
